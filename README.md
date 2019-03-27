@@ -21,3 +21,7 @@ Game Features:
 Galley:
 
 ![pic1](https://user-images.githubusercontent.com/44321973/55109831-1a297680-50ad-11e9-9508-4a885619d30d.PNG)
+
+![pic2](https://user-images.githubusercontent.com/44321973/55115239-6a5b0580-50ba-11e9-8961-5f9e1869bb3b.PNG)
+
+![pic3](https://user-images.githubusercontent.com/44321973/55115252-7050e680-50ba-11e9-8189-c24bf9f5141f.PNG)
