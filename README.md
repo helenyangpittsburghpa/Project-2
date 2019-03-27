@@ -30,8 +30,8 @@ Galley:
 
 # Post Mortem
 
-For this assignment, I failed to implement a feature which allows the player to shoot the enemy and freezes him for 5 seconds. I ran out of time to implement this feature. Another feature I failed to make is that the player has 5 lives. I failed to implemnent this because whenever the player ran into an obstacle, it lost more than 1 life at once. 
+For this assignment, I failed to implement a feature which allows the player to shoot the enemy and freezes him for 5 seconds. I ran out of time to implement this feature. Another feature I failed to make is that the player has 5 lives. I failed to implement this because whenever the player ran into an obstacle, it lost more than 1 life at once, and sometimes it lose 5 or more lives which ends the game. 
 
 The only thing I add on is the Minimap. In the minimap, I had planes which follows the player, the opponents, and the Golden Snitch. These planes made it easier for these elements to showed up on the map.
-3. If you were to continue development on this game, do you have any planned improvements
-or new features?
+
+If I were to continue on working this game, I planned to make it so that there are many other roles(other than Seeker) that the player can choose to play, such as Beater, Chaser, etc. I also wants to make it into a multi-player game, and that the player can choose to pick on the side that they want to be on(wizards or muggles).
