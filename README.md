@@ -19,3 +19,5 @@ Game Features:
 * Up arrow to move forward
 
 Galley:
+
+![pic1](https://user-images.githubusercontent.com/44321973/55109831-1a297680-50ad-11e9-9508-4a885619d30d.PNG)
