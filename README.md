@@ -27,3 +27,11 @@ Galley:
 ![pic4](https://user-images.githubusercontent.com/44321973/55115549-1e5c9080-50bb-11e9-8df4-040e5afd3273.PNG)
 
 ![pic3](https://user-images.githubusercontent.com/44321973/55115252-7050e680-50ba-11e9-8189-c24bf9f5141f.PNG)
+
+# Post Mortem
+
+For this assignment, I failed to implement a feature which allows the player to shoot the enemy and freezes him for 5 seconds. I ran out of time to implement this feature. Another feature I failed to make is that the player has 5 lives. I failed to implemnent this because whenever the player ran into an obstacle, it lost more than 1 life at once. 
+
+The only thing I add on is the Minimap. In the minimap, I had planes which follows the player, the opponents, and the Golden Snitch. These planes made it easier for these elements to showed up on the map.
+3. If you were to continue development on this game, do you have any planned improvements
+or new features?
