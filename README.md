@@ -9,7 +9,7 @@ In an alternate world, the wizarding world is at odds with the Muggles, who imit
 Urban Quidditch allows you to catch the Golden Snitch while avoiding buildings, the floor, and opponents who shoot out bludgers.
 
 **Game Features:**
-* Procedure Generation City
+* Procedural Generation City
 * Minimap that shows the position of Player(green), Opponents(red), and the Golden Snitch(yellow)
 * A timer
 * Avoid Opponents, Bludgers, Floor, and Buildings
